@@ -1,0 +1,224 @@
+
+
+ AI ROADMAP (FROM SCRATCH → PRO LEVEL)
+
+ PHASE 0: Absolute Basics (2–4 weeks)
+
+
+
+1. Programming (Python)
+
+Learn:
+
+Variables, loops, functions
+
+Lists, dictionaries
+
+File handling
+
+
+Focus:  Write small programs daily (not just watching)
+
+
+---
+
+2. Math (only what you NEED)
+
+Don’t panic—just core concepts:
+
+Linear Algebra (vectors, matrices)
+
+Probability basics
+
+Basic calculus (derivatives intuition)
+
+
+
+---
+
+ PHASE 1: Logic Building (VERY IMPORTANT )
+
+Do daily:
+
+Solve 2–3 problems from:
+
+Arrays
+
+Strings
+
+Basic recursion
+
+
+
+Platforms:
+
+LeetCode (easy level)
+
+HackerRank
+
+
+ Goal: Train your brain to think step-by-step
+
+
+---
+
+PHASE 2: Core AI + ML (1–2 months)
+
+Learn Machine Learning concepts:
+
+Supervised vs Unsupervised learning
+
+Regression
+
+Classification
+
+Overfitting
+
+
+Tools:
+
+Python
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Scikit-learn
+
+
+
+---
+
+Build Projects (THIS is where most people fail)
+
+Don’t just learn—build:
+
+Start with:
+
+1. House price predictor
+
+
+2. Student score predictor
+
+
+3. Spam email classifier
+
+
+
+ Even simple projects = HUGE confidence boost
+
+
+---
+
+PHASE 3: Deep Learning (Next Level)
+
+Learn:
+
+Neural Networks
+
+Forward + Backpropagation
+
+Activation functions
+
+
+Tools:
+
+TensorFlow or PyTorch
+
+
+Projects:
+
+Image classifier
+
+Digit recognizer
+
+Basic chatbot
+
+
+
+---
+
+ PHASE 4: Specialization (Pick ONE)
+
+Don’t try everything. Choose your lane:
+
+1. AI + Healthcare (Perfect for your project)
+
+Disease prediction
+
+Medical imaging
+
+
+2. NLP (Chatbots, AI assistants)
+
+Text classification
+
+Sentiment analysis
+
+
+3. Computer Vision
+
+Face detection
+
+Object detection
+
+
+
+---
+
+ PHASE 5: Real-World Skills
+
+Learn:
+
+Git + GitHub 
+APIs
+Model deployment
+
+
+Tools:
+
+Flask / FastAPI
+
+Streamlit (easy UI)
+
+
+
+
+
+
+One real-world problem project
+
+
+
+
+
+
+
+
+
+
+
+Golden Rule:
+
+ If you don’t build, you don’t learn AI
+
+ DAILY PLAN (REALISTIC)
+
+
+1 hr → Coding practice (logic)
+
+1 hr → Learning concept
+
+1 hr → Building project
+
+
+
+---
+
+
+
+
+
+

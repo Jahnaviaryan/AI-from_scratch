@@ -1,0 +1,20 @@
+ Day 1 – Topics Covered
+
+- Introduction to Artificial Intelligence (AI)
+- Human Intelligence vs Machine Intelligence
+- Types of AI (Based on Capability)
+  - Narrow AI
+  - General AI
+  - Super AI
+- Types of AI (Based on Functionality)
+  - Reactive Machines
+  - Limited Memory
+  - Theory of Mind
+  - Self-Aware AI
+- Working of AI (Input → Processing → Output)
+- Problem Solving in AI
+- Introduction to Machine Learning (ML)
+- AI vs ML (Basic Understanding)
+- Types of Machine Learning
+  - Supervised Learning
+  - Unsupervised Learning

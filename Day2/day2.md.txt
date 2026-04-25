@@ -1,0 +1,26 @@
+ Day 2 – Practical ML Basics
+ What I did
+
+Moved from theory to practical Machine Learning. Built simple models and understood how they actually work.
+
+Key Learnings
+ML = finding relationship between input (x) and output (y)
+Learned Linear Regression (predicting numbers)
+Understood m (slope) and b (intercept)
+Learned about error and why models are not perfect
+Saw that real data is messy → model finds best fit
+
+ New Concept
+Learned Classification (predicting categories)
+Built a simple Pass/Fail model using Logistic Regression
+Understood decision boundary and prediction confidence
+
+ Practical Work
+Built small ML programs
+Created a basic predictor with user input
+Started using Pandas for handling data
+
+ Takeaways
+ML is pattern recognition, not magic
+Models learn from data, not memorize
+Clean data is important
